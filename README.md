@@ -1,2 +1,2 @@
-# ID-22-YUM-YUM
-This repository exists for archival purposes only.
+# YUM YUM
+Code for the game "template" for Arduboy
